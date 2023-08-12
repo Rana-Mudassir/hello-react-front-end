@@ -28,6 +28,8 @@
 
 **[Hello rails react]** is a simple app Backend with Rails and Frontend with React, that generates random greetings.
 
+## Link to Backend App: https://github.com/Rana-Mudassir/hello-rails-back-end
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
