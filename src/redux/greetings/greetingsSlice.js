@@ -10,7 +10,6 @@ const Api = 'http://127.0.0.1:3000/';
 export const fetchRandomGreeting = createAsyncThunk('greetings/fetchRandomGreeting', async () => {
   const response = await fetch(Api);
   const data = await response.json();
-  // console.log(data);
 
   return data.greeting;
 });
